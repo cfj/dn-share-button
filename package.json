@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Create a button for sharing the current page on Designer News.",
   "main": "dn-button.js",
+  "repository": "https://github.com/cfj/dn-share-button.git",
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-rename": "^1.2.0",
