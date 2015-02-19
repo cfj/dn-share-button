@@ -2,7 +2,7 @@
 
 > A snippet that creates a button for sharing stories on [Designer News](https://news.layervault.com/).
 
-![Sample image](http://i.imgur.com/45jlYky.png "Share on Designer News")
+![Sample image](http://i.imgur.com/45jlYky.png "Submit to Designer News")
 
 ## Usage
 
