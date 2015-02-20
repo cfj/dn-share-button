@@ -9,7 +9,7 @@
 Insert this where you want the button to appear:
 
 ```js
-<a href="" class="dn-share-button"></a>
+<a data-share="dn"></a>
 <script>(function(d,s,i){var j;var f=d.getElementsByTagName(s)[0];if(!d.getElementById(i)){j=d.createElement(s);
 j.id=i;j.src='http://fsfg.se/dn-button.min.js';f.parentNode.insertBefore(j,f);}})(document,'script','dn-btn-js');</script>
 ```
